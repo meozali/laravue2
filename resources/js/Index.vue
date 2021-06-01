@@ -6,8 +6,6 @@
         </nav>
         <div class="container mt-4 ml-4 ">
              <router-view></router-view>
-        </div>
-       
-
+        </div>  
     </div>
 </template>
